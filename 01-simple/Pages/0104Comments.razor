@@ -3,8 +3,6 @@
 <PageTitle>Comments</PageTitle>
 <h1>Comments</h1>
 <br/>
-<button @onclick="Execute">Do It!</button>
-<br/>
 <br/>
 <div style="border:solid; border-color:black">
   <pre>@message</pre>
@@ -13,8 +11,9 @@
 @code {
     private string message = "";
 
-    private void Execute()
+     protected override async Task OnInitializedAsync()
     {
+    
         // This is an example of single-line comment
 
         // The following statement assign "Mickey Mouse" to variable message
