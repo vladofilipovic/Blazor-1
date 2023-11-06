@@ -1,0 +1,58 @@
+﻿@page "/0304SwitchBranchDeljenjeSa4"
+
+<h1>Determine integer type</h1>
+<br/>
+<table>
+    
+    <tr>
+        <td>Argument:</td>
+        <td>
+            <input style="text-align:right" @bind="x"/>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center" colspan="2">
+            <button @onclick="CalculateFunction">Calculate</button> &nbsp; 
+        </td>
+    </tr>
+    <tr>
+        <td>Result:</td>
+        <td><pre>@result</pre></td>
+    </tr>
+ </table>
+<br/>
+
+@code {
+
+    
+
+    private int x = 0;
+
+    private string result;
+
+    private void Determine()
+    {
+        System.Console.WriteLine("Selector: " + selector);
+        System.Console.WriteLine("Argument: " + x);
+        switch (x%4)
+        {
+            case 0:
+                result = "Number is divisible by 4";
+                break;
+            case 1:
+                result = "Number minus one is divisible by 4";
+                break;
+            case 2:
+                result = "Number minus two is divisible by 4";
+                break;
+            case 3:
+                result = "Number form  is (4 * k + 3)";
+                break;
+            default: //if i is not in the set {0,1,2,3}
+                result = "Number form  is (4 * k + 3)";
+                break;
+        }
+        System.Console.WriteLine("Result: " + result);
+        System.Console.WriteLine();
+    }
+}
