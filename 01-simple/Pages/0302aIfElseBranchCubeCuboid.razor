@@ -1,0 +1,97 @@
+﻿@page "/0302aIfElseBranchCubeCuboid"
+
+<PageTitle>Area and Volume</PageTitle>
+<h1>Area and Volume</h1>
+<br/>
+<table>
+    <tr>
+        <td>Shape:</td>
+        <td>
+            <select @bind="shape">
+              <option value="sphere">Sphere</option>
+              <option value="cube">Cube</option>
+              <option value="cuboid">Cuboid</option>
+            </select>
+        </td>
+    </tr>
+    <tr>
+        <td>Argument:</td>
+        <td>
+            <input style="text-align:right" @bind="a"/>
+        </td>
+    </tr>
+    @if (shape == "cuboid")
+    {
+        <tr>
+            <td>Second argument:</td>
+            <td>
+                <input style="text-align:right" @bind="b"/>
+            </td>
+        </tr>
+        <tr>
+        <td>Third argument:</td>
+            <td>
+                <input style="text-align:right" @bind="c"/>
+            </td>
+        </tr>
+    }
+    <tr>
+        <td style="text-align:center" colspan="2">
+            <button @onclick="AreaVolume">Calculate</button> &nbsp; 
+        </td>
+    </tr>
+    <tr>
+        <td>Area:</td>
+        <td><input style="text-align:right" @bind="area"/></td>
+    </tr>
+    <tr>
+        <td>Volume:</td>
+        <td><input style="text-align:right" @bind="volume"/></td>
+    </tr>
+</table>
+<br/>
+
+
+
+@code {
+    private double pi = Math.PI;
+
+    private string shape = "cube";
+
+    private double a = 1;
+
+    private double b = 2;
+    private double c = 3;
+
+    private double area;
+
+    private double volume;
+
+    private void AreaVolume()
+    {
+        if (shape == "sphere")
+        {
+            
+            area = 4 *pi * a * a;
+            volume = 4 / 3 * pi * a *a*a;
+        }
+        else if (shape == "cube")
+        {
+            area = 6 * a * a;
+            volume = a * a * a;
+        }
+        else if (shape == "cuboid")
+        {
+            area = 2 * (a * b + b * c + c * a);
+            volume = a * b * c;
+        }
+        else
+        {
+            // we can not calculate area or circumference for this shape
+            volume = -1;
+            area = -1;
+        }
+        System.Console.WriteLine("Area: " + area + ". volume: " + volume + ".");
+        System.Console.WriteLine();
+    }
+}
