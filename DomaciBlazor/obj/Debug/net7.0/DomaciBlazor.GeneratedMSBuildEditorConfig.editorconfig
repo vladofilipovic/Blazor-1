@@ -24,8 +24,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alex/Documents/GitHub/Blazor/DomaciBlazor/Pages/DomaciBlazorIfIfBranch.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG9tYWNpQmxhem9ySWZJZkJyYW5jaC5yYXpvcg==
+[C:/Users/Alex/Documents/GitHub/Blazor/DomaciBlazor/Pages/Domaci1MiddleIfBranch.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG9tYWNpMU1pZGRsZUlmQnJhbmNoLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/DomaciBlazor/Pages/Domaci1MiddleIfElseif.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG9tYWNpMU1pZGRsZUlmRWxzZWlmLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/DomaciBlazor/Pages/Domaci1MiddleIfIf.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG9tYWNpMU1pZGRsZUlmSWYucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Alex/Documents/GitHub/Blazor/DomaciBlazor/Pages/FetchData.razor]
