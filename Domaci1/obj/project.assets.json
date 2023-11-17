@@ -1806,11 +1806,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex\\Documents\\GitHub\\Blazor\\DomaciBlazor\\DomaciBlazor.csproj",
-      "projectName": "DomaciBlazor",
-      "projectPath": "C:\\Users\\Alex\\Documents\\GitHub\\Blazor\\DomaciBlazor\\DomaciBlazor.csproj",
+      "projectUniqueName": "C:\\Users\\Alex\\Documents\\GitHub\\Blazor\\Domaci1\\Domaci1.csproj",
+      "projectName": "Domaci1",
+      "projectPath": "C:\\Users\\Alex\\Documents\\GitHub\\Blazor\\Domaci1\\Domaci1.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex\\Documents\\GitHub\\Blazor\\DomaciBlazor\\obj\\",
+      "outputPath": "C:\\Users\\Alex\\Documents\\GitHub\\Blazor\\Domaci1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
