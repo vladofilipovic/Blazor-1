@@ -1,0 +1,53 @@
+﻿@page "/SumByCountBackward"
+
+
+<h1>Sum Calculation</h1>
+<br />
+<table>
+    <tr>
+        <td>Argument:</td>
+        <td>
+            <input style="text-align:right" @bind="num" />
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center" colspan="2">
+            <button title="by decrementing" @onclick="Decrementing">Calculate Sum</button> &nbsp;
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:right">Sum from 1 to @num:</td>
+        <td><input style="text-align:right" @bind="result" /></td>
+    </tr>
+</table>
+<br />
+
+@code {
+
+    private int num = 0;
+
+    private long result = 0;
+
+    private void Decrementing()
+    {
+        Console.WriteLine("SumByDecrementing");
+        int n = num;
+        Console.WriteLine("Argument: " + n);
+        if (n < 0)
+        {
+            Console.WriteLine("Error - argument is negative.");
+            result = long.MinValue;
+            return;
+        }
+        long sum = 0;
+        while (n > 0)
+        {
+            sum += n;
+            n--;
+        }
+        result = sum;
+        System.Console.WriteLine("Result: " + result);
+        System.Console.WriteLine();
+    }
+
+}

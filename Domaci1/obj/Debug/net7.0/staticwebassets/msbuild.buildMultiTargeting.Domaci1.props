@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Domaci1.props" />
+</Project>

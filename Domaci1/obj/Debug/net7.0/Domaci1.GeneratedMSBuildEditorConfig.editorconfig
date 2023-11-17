@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Domaci1
+build_property.RootNamespace = Domaci1
+build_property.ProjectDir = C:\Users\Alex\Documents\GitHub\Blazor\Domaci1\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Alex\Documents\GitHub\Blazor\Domaci1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci1/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci1/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci1/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci1/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci1/Pages/MiddleAllInOne.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWlkZGxlQWxsSW5PbmUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci1/Pages/MiddleIfBranch copy.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWlkZGxlSWZCcmFuY2ggY29weS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci1/Pages/MiddleIfElseif.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWlkZGxlSWZFbHNlaWYucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci1/Pages/MiddleNestedIf.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWlkZGxlTmVzdGVkSWYucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci1/Pages/Sum1nAllInOne.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VtMW5BbGxJbk9uZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci1/Pages/SumByCountBackward.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VtQnlDb3VudEJhY2t3YXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci1/Pages/SumByCountForward.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VtQnlDb3VudEZvcndhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci1/Pages/SumByDecrementing.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VtQnlEZWNyZW1lbnRpbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci1/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci1/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci1/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-xse61rzm21
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci1/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ln4nojzhg8
