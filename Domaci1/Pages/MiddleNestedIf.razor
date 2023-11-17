@@ -1,0 +1,83 @@
+﻿@page "/MiddleNestedIf"
+
+
+<h1>Middle</h1>
+<p>
+You can try to enter integers, real numbers and texts that are not numbers at all.
+</p>
+<table>
+    <tr>
+        <td>First argument:</td>
+        <td><input style="text-align:right" @bind="x"/></td>
+    </tr>
+    <tr>
+        <td>Second argument:</td>
+        <td><input style="text-align:right" @bind="y"/></td>
+    </tr>
+    <tr>
+        <td>Third argument:</td>
+        <td><input style="text-align:right" @bind="z"/></td>
+    </tr>
+    
+    <tr>
+        <td style="text-align:center" colspan="2">
+            <button @onclick="Middle">Determine Middle</button> &nbsp; 
+        </td>
+    </tr>
+    <tr>
+        <td>Result:</td>
+        <td><input style="text-align:right" @bind="result"/></td>
+    </tr>
+</table>
+<br/>
+@code {
+
+    private double x = 0;
+    private double y = -4;
+    private double z = 4;
+    private double result;
+
+    private void Middle()
+    {
+        result = x;
+        if (x <= y)
+        {
+            if (y <= z)
+            {
+                result = y;
+            }
+            else
+            {
+                if (x <= z)
+                {
+                    result = z;
+                }
+                else
+                {
+                    result = x;
+                }
+            }
+        }
+        else
+        {
+            if (y <= z)
+            {
+                if (x <= z)
+                {
+                    result = x;
+                }
+                else
+                {
+                    result = z;
+                }
+            }
+            else
+            {
+                if (x >= y)
+                {
+                    result = y;
+                }
+            }
+        }
+    }
+}
