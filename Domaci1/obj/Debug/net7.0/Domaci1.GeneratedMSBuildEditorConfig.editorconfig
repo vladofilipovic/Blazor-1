@@ -52,16 +52,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VtMW5BbGxJbk9uZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alex/Documents/GitHub/Blazor/Domaci1/Pages/SumByCountBackward.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VtQnlDb3VudEJhY2t3YXJkLnJhem9y
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci1/Pages/Sum1nBackward.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VtMW5CYWNrd2FyZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alex/Documents/GitHub/Blazor/Domaci1/Pages/SumByCountForward.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VtQnlDb3VudEZvcndhcmQucmF6b3I=
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci1/Pages/Sum1nDecrementing.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VtMW5EZWNyZW1lbnRpbmcucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alex/Documents/GitHub/Blazor/Domaci1/Pages/SumByDecrementing.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VtQnlEZWNyZW1lbnRpbmcucmF6b3I=
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci1/Pages/Sum1nForward.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VtMW5Gb3J3YXJkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Alex/Documents/GitHub/Blazor/Domaci1/Shared/SurveyPrompt.razor]
