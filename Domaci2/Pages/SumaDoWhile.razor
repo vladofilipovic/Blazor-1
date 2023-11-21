@@ -1,0 +1,103 @@
+@page "/SumaDoWhile"
+
+<h1>Sum Calculation</h1>
+<br/>
+<table>
+    <tr>
+        <td>Argument:</td>
+        <td>
+            <input style="text-align:right" @bind="num"/>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center" colspan="2">
+            <button title="by forward counting" @onclick="SumByCountForward">Sum</button> &nbsp; 
+            <button title="by backward counting" @onclick="SumByCountBackward">Sum</button> &nbsp; 
+            <button title="by decrementing" @onclick="SumByDecrementing">Sum</button> &nbsp; 
+        </td>
+    </tr>
+    <tr>
+        <td>Sum from 1 to @num:</td>
+        <td><input style="text-align:right" @bind="result"/></td>
+    </tr>
+</table> 
+<br/>
+
+@code {
+
+    private int num = 0;
+
+    private long result = 0;
+
+    private void SumByCountForward()
+    {
+        Console.WriteLine("SumByCountForward");
+        int n = num;
+        Console.WriteLine("Argument: " + n);
+        if (n < 0)
+        {
+            Console.WriteLine("Error - argument is negative.");
+            result = long.MinValue;
+            return;
+        }
+        int i = 1;
+        long sum = 0;
+        do
+        {
+            sum += i;
+            i++;
+        }
+        while (i <= n);
+        result = sum;
+        System.Console.WriteLine("Result: " + result);
+        System.Console.WriteLine();
+    }
+
+    private void SumByCountBackward()
+    {
+        Console.WriteLine("SumByCountBackward");
+        int n = num;
+        Console.WriteLine("Argument: " + n);
+        if (n < 0)
+        {
+            Console.WriteLine("Error - argument is negative.");
+            result = long.MinValue;
+            return;
+        }
+        long sum = 0;
+        int i = n;
+        do
+        {
+            sum += i;
+            i--;
+        }
+        while (i >= 1);
+        result = sum;
+        System.Console.WriteLine("Result: " + result);
+        System.Console.WriteLine();
+    }
+
+    private void SumByDecrementing()
+    {
+        Console.WriteLine("SumByDecrementing");
+        int n = num;
+        Console.WriteLine("Argument: " + n);
+        if (n < 0)
+        {
+            Console.WriteLine("Error - argument is negative.");
+            result = long.MinValue;
+            return;
+        }
+        long sum = 0;
+        do
+        {
+            sum += n;
+            n--;
+        }
+        while (n > 0);
+        result = sum;
+        System.Console.WriteLine("Result: " + result);
+        System.Console.WriteLine();
+    }
+
+}

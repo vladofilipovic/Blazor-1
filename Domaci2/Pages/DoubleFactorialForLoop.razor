@@ -1,0 +1,71 @@
+@page "/DoubleFactorialForLoop"
+
+<h1>Double Factorial</h1>
+<br/>
+<table>
+    <tr>
+        <td>Argument:</td>
+        <td>
+            <input style="text-align:right" @bind="num"/>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center" colspan="2">
+            <button title="by forward counting" @onclick="DoubleFactorialByCountForward">Double Factorial</button> &nbsp; 
+            <button title="by backward counting" @onclick="DoubleFactorialByCountBackward">Double Factorial</button> &nbsp; 
+        </td>
+    </tr>
+    <tr>
+        <td>@num !!:</td>
+        <td><input style="text-align:right" @bind="result"/></td>
+    </tr>
+ </table> 
+<br/>
+
+@code {
+
+    private int num = 0;
+
+    private long result = 1;
+
+    private void DoubleFactorialByCountForward()
+    {
+        Console.WriteLine("DoubleFactorialByCountForward");
+        int n = num;
+        Console.WriteLine("Argument: " + n);
+        if (n < 0)
+        {
+            Console.WriteLine("Error - argument is negative.");
+            result = long.MinValue;
+            return;
+        }
+        long doubleFakt = 1;
+        for (int i = 1; i <= n; i += 2)
+        {
+            doubleFakt *= i;
+        }
+        result = doubleFakt;
+        System.Console.WriteLine("Result: " + result);
+        System.Console.WriteLine();
+    }
+
+    private void DoubleFactorialByCountBackward()
+    {
+        Console.WriteLine("DoubleFactorialByCountBackward");
+        int n = num;
+        Console.WriteLine("Argument: " + n);
+        if (n < 0)
+        {
+            Console.WriteLine("Error - argument is negative.");
+            result = long.MinValue;
+            return;
+        }
+        long doubleFakt = 1;
+        for (int i = n; i >= 1; i -= 2)
+            doubleFakt *= i;
+        result = doubleFakt;
+        System.Console.WriteLine("Result: " + result);
+        System.Console.WriteLine();
+    }
+
+}
