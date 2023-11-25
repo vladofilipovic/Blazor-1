@@ -77,6 +77,10 @@
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {
+      "Id": "C:\\Users\\Alex\\Documents\\GitHub\\Blazor\\03Students\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.03Students.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

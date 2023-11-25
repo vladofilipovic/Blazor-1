@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QAhFr18qsiBQjCvv6HpxIAy3ResvVd3Q7NpZOI6Nbiw=",
+  "Hash": "3dNY0BDogl5Dcm0jVG6Q7cueB01u7pJ2YJp8p+omtBE=",
   "Source": "03Students",
   "BasePath": "/",
   "Mode": "Root",
@@ -7172,6 +7172,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\sample-data\\weather.json"
+    },
+    {
+      "Identity": "C:\\Users\\Alex\\Documents\\GitHub\\Blazor\\03Students\\wwwroot\\styles.css",
+      "SourceId": "03Students",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alex\\Documents\\GitHub\\Blazor\\03Students\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
     }
   ]
 }
