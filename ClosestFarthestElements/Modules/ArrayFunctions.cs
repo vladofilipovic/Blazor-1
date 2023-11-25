@@ -1,8 +1,3 @@
-// ArrayFunctions.cs
-
-using System;
-using System.Linq;
-
 namespace ClosestFarthestElements.Modules
 {
     public static class ArrayFunctions
