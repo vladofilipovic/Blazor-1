@@ -1,0 +1,41 @@
+<!-- GenericIndex.razor -->
+
+@page "/GenericIndex"
+
+@using GenericArrayFunctions = ClosestFarthestElements.Modules.GenericArrayFunctions
+
+<h3>Enter Array Elements</h3>
+<input @bind="inputArray" />
+<button @onclick="CalculateResults">Calculate</button>
+
+@if (resultMessage != null)
+{
+    <p>@resultMessage</p>
+}
+
+@code {
+    private string inputArray;
+    private string resultMessage;
+
+    private void CalculateResults()
+    {
+        try
+        {
+            string[] array = inputArray.Split(',').Select(x => x.Trim()).ToArray();
+
+            if (array.Length == 0)
+            {
+                throw new ArgumentException("Array cannot be empty");
+            }
+
+            var closestElement = GenericArrayFunctions.FindClosestToAverage(array);
+            var farthestElement = GenericArrayFunctions.FindFarthestFromAverage(array);
+
+            resultMessage = $"Closest to average: {closestElement} | Farthest from average: {farthestElement}";
+        }
+        catch (Exception ex)
+        {
+            resultMessage = $"Error: {ex.Message}";
+        }
+    }
+}
