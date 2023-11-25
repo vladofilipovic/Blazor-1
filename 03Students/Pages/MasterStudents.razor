@@ -1,0 +1,68 @@
+@page "/MasterStudents"
+
+@using _03Students.Models
+
+<h1>Master's Students</h1>
+<br />
+<table>
+    <thead>
+        <tr>
+            <th>First name</th>
+            <th>Last name</th>
+            <th>Address</th>
+            <th>Major</th>
+            <th>Thesis Topic</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in masterStudents)
+        {
+            <tr>
+                <td>@student.FirstName</td>
+                <td>@student.LastName</td>
+                <td>@($"{student.Address.Street}, {student.Address.PostalCode} {student.Address.City}, {student.Address.State}")</td>
+                <td>@student.Major</td>
+                <td>@((student as MasterStudent)?.ThesisTopic)</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@code {
+    private List<Student> masterStudents;
+
+    protected override void OnInitialized()
+    {
+        masterStudents = new List<Student>
+        {
+            new MasterStudent
+            {
+                FirstName = "Milica",
+                LastName = "Kostić",
+                Major = "Computer Science",
+                ThesisTopic = "Business Intelligence",
+                Address = new PostalAddress
+                {
+                    Street = "Tošin bunar 143",
+                    City = "Beograd",
+                    PostalCode = "11000",
+                    State = "Srbija"
+                }
+            },
+            new MasterStudent
+            {
+                FirstName = "Igor",
+                LastName = "Miletić",
+                Major = "Economics",
+                ThesisTopic = "Game Theory",
+                Address = new PostalAddress
+                {
+                    Street = "Bulevar Despota Stefana 7a",
+                    City = "Novi Sad",
+                    PostalCode = "21102",
+                    State = "Srbija"
+                }
+            }
+        };
+    }
+}

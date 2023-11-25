@@ -1,6 +1,6 @@
-// Models.PostalAddress.cs
+// 03Students.Models.PostalAddress.cs
 
-namespace DSS.Models
+namespace _03Students.Models
 {
     public class PostalAddress
     {

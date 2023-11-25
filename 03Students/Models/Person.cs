@@ -1,6 +1,6 @@
-// Models.Person.cs
+// 03Students.Models.Person.cs
 
-namespace DSS.Models
+namespace _03Students.Models
 {
     public class Person
     {

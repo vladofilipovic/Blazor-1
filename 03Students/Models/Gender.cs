@@ -1,6 +1,6 @@
-// Models.Gender.cs
+// 03Students.Models.Gender.cs
 
-namespace DSS.Models
+namespace _03Students.Models
 {
-    public enum Gender { Male, Female };
+    public enum Gender { Male, Female }
 }
