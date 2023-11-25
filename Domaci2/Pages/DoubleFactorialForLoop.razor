@@ -40,14 +40,25 @@
             return;
         }
         long doubleFakt = 1;
-        for (int i = 1; i <= n; i += 2)
+        if (n % 2 == 0)
         {
-            doubleFakt *= i;
+            for (int i = 2; i <= n; i += 2)
+            {
+                doubleFakt *= i;
+            }
+        }
+        else
+        {
+            for (int i = 1; i <= n ; i += 2)
+            {
+                doubleFakt *= i;
+            }
         }
         result = doubleFakt;
         System.Console.WriteLine("Result: " + result);
         System.Console.WriteLine();
     }
+
 
     private void DoubleFactorialByCountBackward()
     {
@@ -67,5 +78,4 @@
         System.Console.WriteLine("Result: " + result);
         System.Console.WriteLine();
     }
-
 }

@@ -1,0 +1,33 @@
+@page "/ClosestAndFarthestElements"
+@inject ClosestFarthestElements.Modules.ArrayFunctions ArrayFunctions
+
+<h3>Enter Array Elements</h3>
+<input @bind="inputArray" />
+<button @onclick="CalculateIndices">Calculate</button>
+
+@if (resultMessage != null)
+{
+    <p>@resultMessage</p>
+}
+
+@code {
+    private string inputArray;
+    private string resultMessage;
+
+    private void CalculateIndices()
+    {
+        try
+        {
+            int[] array = inputArray.Split(',').Select(int.Parse).ToArray();
+
+            int closestIndex = ArrayFunctions.IndexOfClosestToAverage(array);
+            int farthestIndex = ArrayFunctions.IndexOfFarthestFromAverage(array);
+
+            resultMessage = $"Closest to average: {array[closestIndex]}, Index: {closestIndex} | Farthest from average: {array[farthestIndex]}, Index: {farthestIndex}";
+        }
+        catch (Exception ex)
+        {
+            resultMessage = $"Error: {ex.Message}";
+        }
+    }
+}

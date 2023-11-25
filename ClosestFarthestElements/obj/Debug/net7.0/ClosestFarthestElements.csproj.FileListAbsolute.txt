@@ -1,0 +1,6 @@
+C:\Users\Alex\Documents\GitHub\Blazor\ClosestFarthestElements\obj\Debug\net7.0\ClosestFarthestElements.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\Blazor\ClosestFarthestElements\obj\Debug\net7.0\ClosestFarthestElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\GitHub\Blazor\ClosestFarthestElements\obj\Debug\net7.0\ClosestFarthestElements.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\GitHub\Blazor\ClosestFarthestElements\obj\Debug\net7.0\ClosestFarthestElements.AssemblyInfo.cs
+C:\Users\Alex\Documents\GitHub\Blazor\ClosestFarthestElements\obj\Debug\net7.0\ClosestFarthestElements.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\GitHub\Blazor\ClosestFarthestElements\obj\Debug\net7.0\ClosestFarthestElements.MvcApplicationPartsAssemblyInfo.cache
