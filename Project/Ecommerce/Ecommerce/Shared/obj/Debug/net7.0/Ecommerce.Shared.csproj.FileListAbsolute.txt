@@ -1,0 +1,11 @@
+C:\Users\Alex\Documents\GitHub\Blazor\Project\Ecommerce\Ecommerce\Shared\bin\Debug\net7.0\Ecommerce.Shared.deps.json
+C:\Users\Alex\Documents\GitHub\Blazor\Project\Ecommerce\Ecommerce\Shared\bin\Debug\net7.0\Ecommerce.Shared.dll
+C:\Users\Alex\Documents\GitHub\Blazor\Project\Ecommerce\Ecommerce\Shared\bin\Debug\net7.0\Ecommerce.Shared.pdb
+C:\Users\Alex\Documents\GitHub\Blazor\Project\Ecommerce\Ecommerce\Shared\obj\Debug\net7.0\Ecommerce.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\GitHub\Blazor\Project\Ecommerce\Ecommerce\Shared\obj\Debug\net7.0\Ecommerce.Shared.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\GitHub\Blazor\Project\Ecommerce\Ecommerce\Shared\obj\Debug\net7.0\Ecommerce.Shared.AssemblyInfo.cs
+C:\Users\Alex\Documents\GitHub\Blazor\Project\Ecommerce\Ecommerce\Shared\obj\Debug\net7.0\Ecommerce.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\GitHub\Blazor\Project\Ecommerce\Ecommerce\Shared\obj\Debug\net7.0\Ecommerce.Shared.dll
+C:\Users\Alex\Documents\GitHub\Blazor\Project\Ecommerce\Ecommerce\Shared\obj\Debug\net7.0\refint\Ecommerce.Shared.dll
+C:\Users\Alex\Documents\GitHub\Blazor\Project\Ecommerce\Ecommerce\Shared\obj\Debug\net7.0\Ecommerce.Shared.pdb
+C:\Users\Alex\Documents\GitHub\Blazor\Project\Ecommerce\Ecommerce\Shared\obj\Debug\net7.0\ref\Ecommerce.Shared.dll
