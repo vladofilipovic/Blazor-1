@@ -1,5 +1,7 @@
-using Microsoft.EntityFrameworkCore;
-using Ecommerce.Server.Data;
+global using Microsoft.EntityFrameworkCore;
+global using Ecommerce.Server.Data;
+using Ecommerce.Server.Repositories.Interfaces;
+using Ecommerce.Server.Repositories.Implementations;
 
 var builder = WebApplication.CreateBuilder(args);
 ConfigurationManager configuration = builder.Configuration;
@@ -13,7 +15,7 @@ builder.Services.AddDbContext<AppDbContext>(Options =>
 {
     Options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
-
+builder.Services.AddScoped<IProductRepo, ProductRepo>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

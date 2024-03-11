@@ -1,8 +1,6 @@
-﻿using Ecommerce.Server.Data;
-using Ecommerce.Server.Repositories.Interfaces;
+﻿using Ecommerce.Server.Repositories.Interfaces;
 using Ecommerce.Shared.DTO;
 using Ecommerce.Shared.Models;
-using Microsoft.EntityFrameworkCore;
 
 namespace Ecommerce.Server.Repositories.Implementations
 {

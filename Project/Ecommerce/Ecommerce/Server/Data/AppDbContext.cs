@@ -1,5 +1,4 @@
 ﻿using Ecommerce.Shared.Models;
-using Microsoft.EntityFrameworkCore;
 namespace Ecommerce.Server.Data
 {
     public class AppDbContext : DbContext

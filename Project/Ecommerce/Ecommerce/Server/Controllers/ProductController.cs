@@ -1,7 +1,6 @@
 ﻿using Ecommerce.Server.Repositories.Interfaces;
 using Ecommerce.Shared.DTO;
 using Ecommerce.Shared.Models;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Ecommerce.Server.Controllers
@@ -16,7 +15,7 @@ namespace Ecommerce.Server.Controllers
             this.productRepo = productRepo;
         }
 
-        [HttpPost("Add-Product")]
+        [HttpPost]
         public async Task<ActionResult<ServiceModel>> AddProduct(Product NewProduct)
         {
             return Ok(await productRepo.AddProduct(NewProduct));
