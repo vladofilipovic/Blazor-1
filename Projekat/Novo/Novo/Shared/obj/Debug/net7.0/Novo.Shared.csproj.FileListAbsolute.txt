@@ -1,0 +1,11 @@
+C:\Users\Alex\Documents\GitHub\Blazor\Projekat\Novo\Novo\Shared\bin\Debug\net7.0\Novo.Shared.deps.json
+C:\Users\Alex\Documents\GitHub\Blazor\Projekat\Novo\Novo\Shared\bin\Debug\net7.0\Novo.Shared.dll
+C:\Users\Alex\Documents\GitHub\Blazor\Projekat\Novo\Novo\Shared\bin\Debug\net7.0\Novo.Shared.pdb
+C:\Users\Alex\Documents\GitHub\Blazor\Projekat\Novo\Novo\Shared\obj\Debug\net7.0\Novo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\GitHub\Blazor\Projekat\Novo\Novo\Shared\obj\Debug\net7.0\Novo.Shared.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\GitHub\Blazor\Projekat\Novo\Novo\Shared\obj\Debug\net7.0\Novo.Shared.AssemblyInfo.cs
+C:\Users\Alex\Documents\GitHub\Blazor\Projekat\Novo\Novo\Shared\obj\Debug\net7.0\Novo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\GitHub\Blazor\Projekat\Novo\Novo\Shared\obj\Debug\net7.0\Novo.Shared.dll
+C:\Users\Alex\Documents\GitHub\Blazor\Projekat\Novo\Novo\Shared\obj\Debug\net7.0\refint\Novo.Shared.dll
+C:\Users\Alex\Documents\GitHub\Blazor\Projekat\Novo\Novo\Shared\obj\Debug\net7.0\Novo.Shared.pdb
+C:\Users\Alex\Documents\GitHub\Blazor\Projekat\Novo\Novo\Shared\obj\Debug\net7.0\ref\Novo.Shared.dll

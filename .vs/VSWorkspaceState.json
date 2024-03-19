@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Project",
+    "\\Project\\Ecommerce",
+    "\\Project\\Ecommerce\\Ecommerce",
+    "\\Project\\Ecommerce\\Ecommerce\\Client",
+    "\\Project\\Ecommerce\\Ecommerce\\Client\\Pages"
+  ],
+  "SelectedNode": "\\Project\\Ecommerce\\Ecommerce\\Client\\Pages\\Products.razor",
+  "PreviewInSolutionExplorer": false
+}

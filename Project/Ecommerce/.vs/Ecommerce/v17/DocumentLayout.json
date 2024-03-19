@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\Documents\\GitHub\\Blazor\\Project\\Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E00037A6-7154-4C32-958F-9E01438F7736}|Ecommerce\\Server\\Ecommerce.Server.csproj|c:\\users\\alex\\documents\\github\\blazor\\project\\ecommerce\\ecommerce\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00037A6-7154-4C32-958F-9E01438F7736}|Ecommerce\\Server\\Ecommerce.Server.csproj|solutionrelative:ecommerce\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00037A6-7154-4C32-958F-9E01438F7736}|Ecommerce\\Server\\Ecommerce.Server.csproj|c:\\users\\alex\\documents\\github\\blazor\\project\\ecommerce\\ecommerce\\server\\repositories\\implementations\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00037A6-7154-4C32-958F-9E01438F7736}|Ecommerce\\Server\\Ecommerce.Server.csproj|solutionrelative:ecommerce\\server\\repositories\\implementations\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00037A6-7154-4C32-958F-9E01438F7736}|Ecommerce\\Server\\Ecommerce.Server.csproj|c:\\users\\alex\\documents\\github\\blazor\\project\\ecommerce\\ecommerce\\server\\data\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00037A6-7154-4C32-958F-9E01438F7736}|Ecommerce\\Server\\Ecommerce.Server.csproj|solutionrelative:ecommerce\\server\\data\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00037A6-7154-4C32-958F-9E01438F7736}|Ecommerce\\Server\\Ecommerce.Server.csproj|c:\\users\\alex\\documents\\github\\blazor\\project\\ecommerce\\ecommerce\\server\\data\\migrations\\20240310001859_initials.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00037A6-7154-4C32-958F-9E01438F7736}|Ecommerce\\Server\\Ecommerce.Server.csproj|solutionrelative:ecommerce\\server\\data\\migrations\\20240310001859_initials.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00037A6-7154-4C32-958F-9E01438F7736}|Ecommerce\\Server\\Ecommerce.Server.csproj|c:\\users\\alex\\documents\\github\\blazor\\project\\ecommerce\\ecommerce\\server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00037A6-7154-4C32-958F-9E01438F7736}|Ecommerce\\Server\\Ecommerce.Server.csproj|solutionrelative:ecommerce\\server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00037A6-7154-4C32-958F-9E01438F7736}|Ecommerce\\Server\\Ecommerce.Server.csproj|c:\\users\\alex\\documents\\github\\blazor\\project\\ecommerce\\ecommerce\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E00037A6-7154-4C32-958F-9E01438F7736}|Ecommerce\\Server\\Ecommerce.Server.csproj|solutionrelative:ecommerce\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C562B3-FF5D-45D5-BDE3-EC8632E0BB1F}|Ecommerce\\Client\\Ecommerce.Client.csproj|c:\\users\\alex\\documents\\github\\blazor\\project\\ecommerce\\ecommerce\\client\\ecommerce.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4C562B3-FF5D-45D5-BDE3-EC8632E0BB1F}|Ecommerce\\Client\\Ecommerce.Client.csproj|solutionrelative:ecommerce\\client\\ecommerce.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00037A6-7154-4C32-958F-9E01438F7736}|Ecommerce\\Server\\Ecommerce.Server.csproj|c:\\users\\alex\\documents\\github\\blazor\\project\\ecommerce\\ecommerce\\server\\ecommerce.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E00037A6-7154-4C32-958F-9E01438F7736}|Ecommerce\\Server\\Ecommerce.Server.csproj|solutionrelative:ecommerce\\server\\ecommerce.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\GitHub\\Blazor\\Project\\Ecommerce\\Ecommerce\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\GitHub\\Blazor\\Project\\Ecommerce\\Ecommerce\\Server\\Program.cs",
+              "RelativeToolTip": "Ecommerce\\Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAArwA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:39:25.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\GitHub\\Blazor\\Project\\Ecommerce\\Ecommerce\\Server\\Repositories\\Implementations\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Server\\Repositories\\Implementations\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\GitHub\\Blazor\\Project\\Ecommerce\\Ecommerce\\Server\\Repositories\\Implementations\\ProductRepo.cs",
+              "RelativeToolTip": "Ecommerce\\Server\\Repositories\\Implementations\\ProductRepo.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAnwF8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:39:18.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\GitHub\\Blazor\\Project\\Ecommerce\\Ecommerce\\Server\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Server\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\GitHub\\Blazor\\Project\\Ecommerce\\Ecommerce\\Server\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Ecommerce\\Server\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:39:12.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240310001859_Initials.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\GitHub\\Blazor\\Project\\Ecommerce\\Ecommerce\\Server\\Data\\Migrations\\20240310001859_Initials.Designer.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Server\\Data\\Migrations\\20240310001859_Initials.Designer.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\GitHub\\Blazor\\Project\\Ecommerce\\Ecommerce\\Server\\Data\\Migrations\\20240310001859_Initials.Designer.cs",
+              "RelativeToolTip": "Ecommerce\\Server\\Data\\Migrations\\20240310001859_Initials.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:39:01.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\GitHub\\Blazor\\Project\\Ecommerce\\Ecommerce\\Server\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Server\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\GitHub\\Blazor\\Project\\Ecommerce\\Ecommerce\\Server\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Ecommerce\\Server\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:38:45.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\GitHub\\Blazor\\Project\\Ecommerce\\Ecommerce\\Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Ecommerce\\Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\GitHub\\Blazor\\Project\\Ecommerce\\Ecommerce\\Server\\appsettings.json",
+              "RelativeToolTip": "Ecommerce\\Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T20:31:26.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "ViewState": "AQIAAN8BAAAAAAAAAAAmwOoBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-03-16T19:59:05.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ecommerce.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\GitHub\\Blazor\\Project\\Ecommerce\\Ecommerce\\Server\\Ecommerce.Server.csproj",
+              "RelativeDocumentMoniker": "Ecommerce\\Server\\Ecommerce.Server.csproj",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\GitHub\\Blazor\\Project\\Ecommerce\\Ecommerce\\Server\\Ecommerce.Server.csproj",
+              "RelativeToolTip": "Ecommerce\\Server\\Ecommerce.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-16T19:57:49.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ecommerce.Client.csproj",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\GitHub\\Blazor\\Project\\Ecommerce\\Ecommerce\\Client\\Ecommerce.Client.csproj",
+              "RelativeDocumentMoniker": "Ecommerce\\Client\\Ecommerce.Client.csproj",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\GitHub\\Blazor\\Project\\Ecommerce\\Ecommerce\\Client\\Ecommerce.Client.csproj",
+              "RelativeToolTip": "Ecommerce\\Client\\Ecommerce.Client.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-16T19:43:39.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

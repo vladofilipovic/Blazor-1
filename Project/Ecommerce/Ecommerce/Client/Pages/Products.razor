@@ -2,6 +2,7 @@
 @using Ecommerce.Shared.DTO;
 @inject IProductServices productService
 
+<h3>Products</h3>
 @if (serviceModel.ProductList != null)
 {
     <div class="row">
@@ -67,12 +68,6 @@ else
         </div>
     </div>
 }
-
-
-
-
-
-
 
 @code {
     public ServiceModel serviceModel = new ServiceModel();

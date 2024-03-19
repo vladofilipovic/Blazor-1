@@ -826,3 +826,4 @@ C:\Users\Alex\Documents\GitHub\Blazor\02ClosestFarthestElements\obj\Debug\net7.0
 C:\Users\Alex\Documents\GitHub\Blazor\02ClosestFarthestElements\obj\Debug\net7.0\refint\02ClosestFarthestElements.dll
 C:\Users\Alex\Documents\GitHub\Blazor\02ClosestFarthestElements\obj\Debug\net7.0\02ClosestFarthestElements.pdb
 C:\Users\Alex\Documents\GitHub\Blazor\02ClosestFarthestElements\obj\Debug\net7.0\ref\02ClosestFarthestElements.dll
+C:\Users\Alex\Documents\GitHub\Blazor\02ClosestFarthestElements\obj\Debug\net7.0\02ClosestFarthestElements.sourcelink.json

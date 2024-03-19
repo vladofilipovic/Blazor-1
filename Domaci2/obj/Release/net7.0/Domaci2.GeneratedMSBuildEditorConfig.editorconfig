@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Domaci2
+build_property.RootNamespace = Domaci2
+build_property.ProjectDir = C:\Users\Alex\Documents\GitHub\Blazor\Domaci2\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Alex\Documents\GitHub\Blazor\Domaci2
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci2/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci2/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci2/Pages/DoubleFactorialDoWhileBackward.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG91YmxlRmFjdG9yaWFsRG9XaGlsZUJhY2t3YXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci2/Pages/DoubleFactorialForLoop.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG91YmxlRmFjdG9yaWFsRm9yTG9vcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci2/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci2/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci2/Pages/MaximumArrays.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWF4aW11bUFycmF5cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci2/Pages/SumaDoWhile.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VtYURvV2hpbGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci2/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci2/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci2/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ktemgfpjh5
+
+[C:/Users/Alex/Documents/GitHub/Blazor/Domaci2/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-30p6yy9im6

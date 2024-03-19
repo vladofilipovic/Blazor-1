@@ -1,0 +1,11 @@
+C:\Users\Alex\Documents\GitHub\Blazor\Projekat\ORMExplained\ORMExplained\Shared\bin\Debug\net7.0\ORMExplained.Shared.deps.json
+C:\Users\Alex\Documents\GitHub\Blazor\Projekat\ORMExplained\ORMExplained\Shared\bin\Debug\net7.0\ORMExplained.Shared.dll
+C:\Users\Alex\Documents\GitHub\Blazor\Projekat\ORMExplained\ORMExplained\Shared\bin\Debug\net7.0\ORMExplained.Shared.pdb
+C:\Users\Alex\Documents\GitHub\Blazor\Projekat\ORMExplained\ORMExplained\Shared\obj\Debug\net7.0\ORMExplained.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\GitHub\Blazor\Projekat\ORMExplained\ORMExplained\Shared\obj\Debug\net7.0\ORMExplained.Shared.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\GitHub\Blazor\Projekat\ORMExplained\ORMExplained\Shared\obj\Debug\net7.0\ORMExplained.Shared.AssemblyInfo.cs
+C:\Users\Alex\Documents\GitHub\Blazor\Projekat\ORMExplained\ORMExplained\Shared\obj\Debug\net7.0\ORMExplained.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\GitHub\Blazor\Projekat\ORMExplained\ORMExplained\Shared\obj\Debug\net7.0\ORMExplained.Shared.dll
+C:\Users\Alex\Documents\GitHub\Blazor\Projekat\ORMExplained\ORMExplained\Shared\obj\Debug\net7.0\refint\ORMExplained.Shared.dll
+C:\Users\Alex\Documents\GitHub\Blazor\Projekat\ORMExplained\ORMExplained\Shared\obj\Debug\net7.0\ORMExplained.Shared.pdb
+C:\Users\Alex\Documents\GitHub\Blazor\Projekat\ORMExplained\ORMExplained\Shared\obj\Debug\net7.0\ref\ORMExplained.Shared.dll
