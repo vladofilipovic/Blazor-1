@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7atQab0ENKmHqoy3diU9Z04225YcveS7sYMq77Td4LTgrxMHr5eELecimIvQFRp3gsrVN+qZplfQ6hYM8ApyBw==",
+  "dgSpecHash": "4osYTMNB4l0tEKaFO2QOGGDXX3PyZA0sYBEYokpygdva9y4Ne2XaehsP8ITGksdwVFC/L5BWcES9F7DExK5JTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alex\\Documents\\GitHub\\Blazor\\Projekat\\Novo\\Novo\\Shared\\Novo.Shared.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\vlado\\Courses\\Ekof\\aleksandra--f--Blazor\\Projekat\\Novo\\Novo\\Shared\\Novo.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vlado\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Vlado\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Vlado\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

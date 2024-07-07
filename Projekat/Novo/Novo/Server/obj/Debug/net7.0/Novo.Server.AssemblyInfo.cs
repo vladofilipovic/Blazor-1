@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Novo.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc3e141d176d8d2b951d8dea0cf62f6a3ba3ca9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Novo.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Novo.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
